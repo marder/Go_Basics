@@ -12,4 +12,6 @@ func main() {
 
 	number3 := 30
 	fmt.Println(number3)
+
+	const lightSpeed = 299792458
 }
